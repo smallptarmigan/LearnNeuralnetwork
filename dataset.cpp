@@ -4,7 +4,7 @@
 
 #include "Dataset.hpp"
 
-//バイト列からintへの変換
+// convert int from byte
 int reverseInt (int i)
 {
     unsigned char c1, c2, c3, c4;
